@@ -1,0 +1,3 @@
+[submodule "rlz-store"]
+	path = rlz-store
+	url = https://github.com/mpetri/rlz-store.git
