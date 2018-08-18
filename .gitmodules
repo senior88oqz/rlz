@@ -1,3 +1,6 @@
 [submodule "rlz-store"]
 	path = rlz-store
 	url = https://github.com/mpetri/rlz-store.git
+[submodule "nlp-datasets"]
+	path = nlp-datasets
+	url = https://github.com/senior88oqz/nlp-datasets.git
